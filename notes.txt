@@ -1,0 +1,15 @@
+color flipper ::tips::
+
+js
+const colors = [array com 4 strings];
+const btn = botao (elementId)
+const color = span que irá mudar de cor (querySelector)
+
+btn.addevent listener - click - function{
+const randomNumber = aleatoriedade/hardcode
+document.body.style.backgroundColor = colors[random]
+color.textContent = colors[random];
+
+function getRandomNumber (){
+return Math.floor(Math.random()*colors.length);
+}
